@@ -242,10 +242,10 @@
 		.border -> padding-right: 5px;
 		.colborder -> padding-right: 24px;
 	*/
-	.append-1,border.append-2,border.append-3,border.append-4,border.append-5,border.append-6,border.append-7,border.append-8,border.append-9,border.append-10,border.append-11,border.append-12,border.append-13,border.append-14,border.append-15,border.append-16,border.append-17,border.append-18,border.append-19,border.append-20,border.append-21,border.append-22,border.append-23
+	.border.append-1,.border.append-2,.border.append-3,.border.append-4,.border.append-5,.border.append-6,.border.append-7,.border.append-8,.border.append-9,.border.append-10,.border.append-11,.border.append-12,.border.append-13,.border.append-14,.border.append-15,.border.append-16,.border.append-17,.border.append-18,.border.append-19,.border.append-20,.border.append-21,.border.append-22,.border.append-23
 	{ outline: 1px solid red; }
 	
-	.append-1,colborder.append-2,colborder.append-3,colborder.append-4,colborder.append-5,colborder.append-6,colborder.append-7,colborder.append-8,colborder.append-9,colborder.append-10,colborder.append-11,colborder.append-12,colborder.append-13,colborder.append-14,colborder.append-15,colborder.append-16,colborder.append-17,colborder.append-18,colborder.append-19,colborder.append-20,colborder.append-21,colborder.append-22,colborder.append-23
+	.colborder.append-1,.colborder.append-2,.colborder.append-3,.colborder.append-4,.colborder.append-5,.colborder.append-6,.colborder.append-7,.colborder.append-8,.colborder.append-9,.colborder.append-10,.colborder.append-11,.colborder.append-12,.colborder.append-13,.colborder.append-14,.colborder.append-15,.colborder.append-16,.colborder.append-17,.colborder.append-18,.colborder.append-19,.colborder.append-20,.colborder.append-21,.colborder.append-22,.colborder.append-23
 	{ outline: 1px solid red; }
 	
 	/*
