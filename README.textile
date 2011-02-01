@@ -1,6 +1,6 @@
 h2. Development page & Debugger
 
-version: _v0.1.2_ ^(beta)^ 
+version: _v0.1.3_ ^(beta)^ 
 
 * Gives you a save rapid prototyping environment  
 * Helps you adding the right blueprint classes 
@@ -22,17 +22,17 @@ _author:_ Created by Franz Josef Kaiser "say hello code!":http://say-hello-code.
 ----------------------------------------------------------------
 h3. Usage
 
-# Adjust the <head> of your dev environment page to your needs:
-# Uncomment the plugins you want to use in your page.
-## _optional_ only needed for the mailing list: describe your goals, trials & errors in the head container.
-# Add your basic html structure (div, h1-h6, p, span, a).
-# Add some "lorem ipsum" dummy text and sample imgs to your html (search for lorem ipsum, there are lots of resources). 
-# Add your blueprint classes to the structure.
-# Uncomment the css/html debugger plugin in the head.
-# Open the sample in your browser.
-## _optional_ if you see elements outlined, you've forgotten declarations or added not matching classes. In this case take a look at the head of the debugger plugin to check color codes & find out what exactly went wrong (it's easy).
-## Basic structure: _*done*_
-# Now you can add your own styles in a separate stylesheet to the <head> section and develop further. 
+* Adjust the <head> of your dev environment page to your needs:
+* Uncomment the plugins you want to use in your page.
+** _optional_ only needed for the mailing list: describe your goals, trials & errors in the head container.
+* Add your basic html structure (div, h1-h6, p, span, a).
+* Add some "lorem ipsum" dummy text and sample imgs to your html (search for lorem ipsum, there are lots of resources). 
+* Add your blueprint classes to the structure.
+* Uncomment the css/html debugger plugin in the head.
+* Open the sample in your browser.
+** _optional_ if you see elements outlined, you've forgotten declarations or added not matching classes. In this case take a look at the head of the debugger plugin to check color codes & find out what exactly went wrong (it's easy).
+* Basic structure: _*done*_
+* Now you can add your own styles in a separate stylesheet to the <head> section and develop further. 
 
 
 ----------------------------------------------------------------
@@ -52,4 +52,9 @@ _v01.1 (beta)_
 
 _v01.2 (beta)_
 * switched to textile mark-up file for readme to inherit bp core
- 
+
+_v01.2.1 (beta)_
+* tried to fix textile mark-up for readme
+
+_v01.3 (beta)_
+* switched pathes for all style-links in the head of blueprint.html to work out of the box from the debug plugin directory.
